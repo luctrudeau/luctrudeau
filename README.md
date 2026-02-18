@@ -17,7 +17,7 @@ I care about:
 ### What I work on
 
 - AV1 / AV2 research and optimization  
-- Objective quality metrics (SSIM, PSNR, perceptual modeling)  
+- Objective quality metrics
 - Fast algorithms for encoding and decoding  
 - Experimental learned image/video compression  
 
