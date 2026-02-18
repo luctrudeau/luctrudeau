@@ -1,16 +1,25 @@
-## Hi there 👋
+### Hi there <a href="https://trud.ca/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> I'm Luc Trudeau
 
-<!--
-**luctrudeau/luctrudeau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧪 This is where I experiment with video compression research.
 
-Here are some ideas to get you started:
+Some of it becomes open-source tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About me
+
+I’m a Canadian🇨🇦 video compression researcher and independent consultant.  
+I’ve worked on AV1, contributed to dav1d, and spent years thinking about how to make codecs faster, simpler, and better.
+
+I care about:
+- Efficient compression algorithms
+- Practical implementations
+- Bridging research and production systems
+
+### What I work on
+
+- AV1 / AV2 research and optimization  
+- Objective quality metrics (SSIM, PSNR, perceptual modeling)  
+- Fast algorithms for encoding and decoding  
+- Experimental learned image/video compression  
+
+Most projects here start as research experiments.  
+Some grow into production-ready tools.
