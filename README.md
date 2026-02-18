@@ -23,3 +23,16 @@ I care about:
 
 Most projects here start as research experiments.  
 Some grow into production-ready tools.
+
+### Talks & Tutorials
+
+<a href="https://youtu.be/RMVMIo17UZY?si=G8KQxz0t2mAfvUn3">
+  <img src="av1tutorial.png" width="600">
+</a>
+
+### Open to
+
+- Research collaborations  
+- Industry consulting  
+- Speaking and technical tutorials  
+- Building better open tools for the video ecosystem
