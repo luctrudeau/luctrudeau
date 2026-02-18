@@ -16,7 +16,7 @@ I care about:
 
 ### What I work on
 
-- AV1 / AV2 research and optimization  
+- Codec research and optimization  
 - Objective quality metrics
 - Fast algorithms for encoding and decoding  
 - Experimental learned image/video compression  
@@ -26,13 +26,20 @@ Some grow into production-ready tools.
 
 ### Talks & Tutorials
 
-<a href="https://youtu.be/RMVMIo17UZY?si=G8KQxz0t2mAfvUn3">
-  <img src="av1tutorial.png" width="600">
-</a>
+#### AV1 Tutorial — Mile High Video 2026
+Deep dive into AV1 structure and compute vs compression tradeoffs.
+<p align="center">
+  <a href="https://youtu.be/RMVMIo17UZY" 
+     title="Watch: The AV1 Video Compression Standard — Mile High Video 2026">
+    <img src="av1tutorial.png" 
+         width="500" 
+         alt="The AV1 Video Compression Standard — Mile High Video 2026">
+  </a>
+</p>
 
 ### Open to
 
-- Research collaborations  
-- Industry consulting  
-- Speaking and technical tutorials  
-- Building better open tools for the video ecosystem
+- Research collaborations (academia & industry)
+- Codec consulting and performance optimization
+- Conference talks and technical tutorials
+- Open-source R&D partnerships
